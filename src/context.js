@@ -26,3 +26,4 @@ export const Consumer = Context.Consumer;
 // /Context.Provider
 //  privder will wrap around every other component.
 //  This allows you at access the state though other compoents as long as consumer is used. 
+//  25;02 of part1
